@@ -1,41 +1,18 @@
 <svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background with rounded corners and gradient -->
   <rect width="420" height="420" rx="100" fill="url(#paint0_linear)"/>
-  
-  <!-- Outer white circle -->
-  <circle cx="210" cy="215" r="165" stroke="white" stroke-width="5" fill="none"/>
-  
-  <!-- Inner white circle -->
-  <circle cx="210" cy="215" r="152" stroke="white" stroke-width="3" fill="none"/>
-  
-  <!-- Top leaf -->
-  <path d="M210 60 C210 60, 195 90, 195 115 C195 140, 210 155, 210 155 C210 155, 225 140, 225 115 C225 90, 210 60, 210 60Z" fill="white"/>
-  
-  <!-- Decorative hearts around the circle -->
-  <!-- Top right -->
-  <path d="M280 80 C280 80, 275 70, 285 68 C290 67, 295 72, 295 77 C295 82, 290 87, 285 92 C280 97, 275 92, 272 87 C270 82, 275 80, 280 80Z" fill="white"/>
-  <!-- Right top -->
-  <path d="M345 145 C345 145, 340 135, 350 133 C355 132, 360 137, 360 142 C360 147, 355 152, 350 157 C345 162, 340 157, 337 152 C335 147, 340 145, 345 145Z" fill="white"/>
-  <!-- Right bottom -->
-  <path d="M345 280 C345 280, 340 270, 350 268 C355 267, 360 272, 360 277 C360 282, 355 287, 350 292 C345 297, 340 292, 337 287 C335 282, 340 280, 345 280Z" fill="white"/>
-  <!-- Bottom right -->
-  <path d="M280 345 C280 345, 275 335, 285 333 C290 332, 295 337, 295 342 C295 347, 290 352, 285 357 C280 362, 275 357, 272 352 C270 347, 275 345, 280 345Z" fill="white"/>
-  <!-- Bottom left -->
-  <path d="M140 345 C140 345, 135 335, 145 333 C150 332, 155 337, 155 342 C155 347, 150 352, 145 357 C140 362, 135 357, 132 352 C130 347, 135 345, 140 345Z" fill="white"/>
-  <!-- Left bottom -->
-  <path d="M75 280 C75 280, 70 270, 80 268 C85 267, 90 272, 90 277 C90 282, 85 287, 80 292 C75 297, 70 292, 67 287 C65 282, 70 280, 75 280Z" fill="white"/>
-  <!-- Left top -->
-  <path d="M75 145 C75 145, 70 135, 80 133 C85 132, 90 137, 90 142 C90 147, 85 152, 80 157 C75 162, 70 157, 67 152 C65 147, 70 145, 75 145Z" fill="white"/>
-  <!-- Top left -->
-  <path d="M140 80 C140 80, 135 70, 145 68 C150 67, 155 72, 155 77 C155 82, 150 87, 145 92 C140 97, 135 92, 132 87 C130 82, 135 80, 140 80Z" fill="white"/>
-  
-  <!-- THAI text -->
-  <text x="210" y="205" font-family="Arial, Helvetica, sans-serif" font-size="75" font-weight="900" fill="white" text-anchor="middle" letter-spacing="4">THAI</text>
-  
-  <!-- UDON text -->
-  <text x="210" y="285" font-family="Arial, Helvetica, sans-serif" font-size="75" font-weight="900" fill="white" text-anchor="middle" letter-spacing="4">UDON</text>
-  
-  <!-- Gradient definition -->
+  <circle cx="210" cy="210" r="165" stroke="white" stroke-width="5" fill="none"/>
+  <circle cx="210" cy="210" r="155" stroke="white" stroke-width="3" fill="none"/>
+  <path d="M210 55 C195 85, 195 115, 210 140 C225 115, 225 85, 210 55Z" fill="white"/>
+  <path d="M280 80 C275 70, 285 65, 295 70 C300 72, 300 80, 295 85 C290 90, 280 95, 280 95 C280 95, 270 90, 265 85 C260 80, 260 72, 265 70 C275 65, 280 75, 280 80Z" fill="white"/>
+  <path d="M345 145 C340 135, 350 130, 360 135 C365 137, 365 145, 360 150 C355 155, 345 160, 345 160 C345 160, 335 155, 330 150 C325 145, 325 137, 330 135 C340 130, 345 140, 345 145Z" fill="white"/>
+  <path d="M345 275 C340 265, 350 260, 360 265 C365 267, 365 275, 360 280 C355 285, 345 290, 345 290 C345 290, 335 285, 330 280 C325 275, 325 267, 330 265 C340 260, 345 270, 345 275Z" fill="white"/>
+  <path d="M280 340 C275 330, 285 325, 295 330 C300 332, 300 340, 295 345 C290 350, 280 355, 280 355 C280 355, 270 350, 265 345 C260 340, 260 332, 265 330 C275 325, 280 335, 280 340Z" fill="white"/>
+  <path d="M140 340 C135 330, 145 325, 155 330 C160 332, 160 340, 155 345 C150 350, 140 355, 140 355 C140 355, 130 350, 125 345 C120 340, 120 332, 125 330 C135 325, 140 335, 140 340Z" fill="white"/>
+  <path d="M75 275 C70 265, 80 260, 90 265 C95 267, 95 275, 90 280 C85 285, 75 290, 75 290 C75 290, 65 285, 60 280 C55 275, 55 267, 60 265 C70 260, 75 270, 75 275Z" fill="white"/>
+  <path d="M75 145 C70 135, 80 130, 90 135 C95 137, 95 145, 90 150 C85 155, 75 160, 75 160 C75 160, 65 155, 60 150 C55 145, 55 137, 60 135 C70 130, 75 140, 75 145Z" fill="white"/>
+  <path d="M140 80 C135 70, 145 65, 155 70 C160 72, 160 80, 155 85 C150 90, 140 95, 140 95 C140 95, 130 90, 125 85 C120 80, 120 72, 125 70 C135 65, 140 75, 140 80Z" fill="white"/>
+  <text x="210" y="190" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900" fill="white" text-anchor="middle" letter-spacing="2">THAI</text>
+  <text x="210" y="280" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900" fill="white" text-anchor="middle" letter-spacing="2">UDON</text>
   <defs>
     <linearGradient id="paint0_linear" x1="0" y1="0" x2="420" y2="420" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07E9FF"/>
